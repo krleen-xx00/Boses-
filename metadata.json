@@ -1,0 +1,6 @@
+{
+  "name": "Project BOSES - Cabiao Senior High School",
+  "description": "Digital Suggestion Box, Anonymous Freedom Wall & Complaint Tracker, School Trending Feed, Polls, and Group Chats for Cabiao Senior High School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
